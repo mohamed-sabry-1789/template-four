@@ -1,0 +1,45 @@
+/* marign , padding  */
+.p-5 {
+    padding: 5px;
+}
+.p-20 {
+    padding: 20px;
+}
+.mg-20 {
+    margin: 20px;
+}
+
+/* color */
+.bg-c-g {
+    background-color: #777;
+}
+.bg-c-r {
+    background-color: red;
+}
+.bg-c-gn {
+    background-color: green;
+}
+.bg-c-bl {
+    background-color: blue;
+}
+
+.bg-c-w {
+    background-color: white;
+}
+/* font */
+.f-s-14 {
+    font-size: 14px;
+}
+/* box */ 
+    .d-block {
+        display: block;
+    }
+    .d-flex {
+display: flex;
+    }
+    @media(max-width:767px) {
+        .txt-c-mob {
+text-align: center;
+        }
+       
+    }
